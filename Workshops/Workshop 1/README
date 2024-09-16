@@ -1,0 +1,28 @@
+<Summary of Workshop Requirements and Execution>
+Workshop Requirements:
+In this workshop, you are tasked with designing a database for an apartment complex application. As a newly hired database engineer, your responsibilities include:
+
+Survey: Interview 15 students to gather suggestions on desired functionalities for the apartment complex app.
+User Stories: Create user stories based on the survey responses, using the format: As a <role>, I want <action>, so that <impact>.
+Basic Features: Implement key features such as:
+Viewing a list of all blocks and apartments.
+Handling payments for administration services.
+Reserving common areas (gym, pool, event rooms).
+Additional Functionalities: Based on the user stories, add any other requested features.
+Report: Write a report detailing:
+User stories.
+Technical and design decisions.
+A step-by-step explanation of the database creation methodology, covering all 10 steps.
+The report must be written in English and submitted in PDF format along with the documentation and code uploaded to a GitHub repository.
+
+Execution:
+Survey: 15 students were interviewed, and key suggestions included payment management, reservation of common spaces, and maintenance reporting in my case, i tried to get different answers for each student.
+User Stories: Created user stories based on the survey responses, such as viewing apartment lists, making payments, reserving common areas, and receiving notifications.
+Database Design:
+The database includes tables for Residents, Apartments, Payments, Reservations, Maintenance, and Notifications.
+Relationships between entities were modeled to ensure efficient data handling (e.g., a resident can make multiple payments or reservations).
+Methodology: The database was developed following a structured methodology:
+Requirement Gathering from user surveys.
+Normalization to reduce data redundancy.
+Logical Design and implementation in a relational database system.
+Report: A detailed report, including user stories, design decisions, and the database model, was compiled and submitted in PDF format. The code and documentation were uploaded to GitHub as required.
